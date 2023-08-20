@@ -1,0 +1,9 @@
+﻿  CSVparser.cpp
+C:\Users\dd\Desktop\SNHU Associate\CS300\dsa-project-two\dsa-project-two\CSVparser.cpp(116,29): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\dd\Desktop\SNHU Associate\CS300\dsa-project-two\dsa-project-two\CSVparser.cpp(121,28): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\dd\Desktop\SNHU Associate\CS300\dsa-project-two\dsa-project-two\CSVparser.cpp(203,26): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  DSAProjectTwo.cpp
+C:\Users\dd\Desktop\SNHU Associate\CS300\dsa-project-two\dsa-project-two\DSAProjectTwo.cpp(191,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dd\Desktop\SNHU Associate\CS300\dsa-project-two\dsa-project-two\DSAProjectTwo.cpp(287,40): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  dsa-project-two.vcxproj -> C:\Users\dd\Desktop\SNHU Associate\CS300\dsa-project-two\x64\Debug\dsa-project-two.exe
